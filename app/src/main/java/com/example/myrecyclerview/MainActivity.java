@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 showRecyclerList();
                 break;
             case R.id.action_grid:
-                showRecyclerList();
+                showRecyclerGrid();
                 break;
             case R.id.action_cardview:
                 break;
